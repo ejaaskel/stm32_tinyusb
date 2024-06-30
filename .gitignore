@@ -5,7 +5,7 @@
 .metadata/
 
 #launch
-.launch
+*.launch
 
 #Debug
 Debug/
