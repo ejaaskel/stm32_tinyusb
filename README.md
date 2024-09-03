@@ -1,4 +1,5 @@
-This repository is an example of creating a USB device with an STM32 board. The used USB stack is TinyUSB, instead of the ST's own USB middleware.
+This repository is an example of creating a USB device with an STM32 board. The used USB stack is TinyUSB, instead of the ST's own USB middleware. Blog post explaining the repository can be found from here:
+https://ejaaskel.dev/making-usb-device-with-stm32-tinyusb/
 
 The example code is from TinyUSB, from the CDC Dual Ports device example.
 https://github.com/hathach/tinyusb/tree/master/examples/device/cdc_dual_ports
